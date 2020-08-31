@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-AXPII-1/src/examples/01_module/02_int/main.cpp
+
+/home/runner/acc-cosc-1337-fall-2020-AXPII-1/src/examples/01_module/02_int/vars.cpp
+
